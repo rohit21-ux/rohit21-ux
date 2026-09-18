@@ -1,4 +1,4 @@
-## Hi there 👋
+MCA student | B.Sc. CS graduate | Python, C/C++ & SQL | Desktop apps with Tkinter & Win32 API | Open to opportunities
 
 <!--
 **rohit21-ux/rohit21-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
